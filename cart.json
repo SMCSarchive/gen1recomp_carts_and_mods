@@ -9,7 +9,7 @@
   "shell": "#2d38d2",
   "finish": "sparkle+holo",
   "label": "label.png",
-  "base": "red",
+  "base": "blue",
   "engine": ">=0.2.26 <1.0.0",
   "seal": "open",
   "mods": [
