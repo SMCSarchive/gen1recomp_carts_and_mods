@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "id": "pkmn-red",
+  "title": "PKMN_RED",
+  "version": "0.1.0",
+  "author": "HeadCannon1776",
+  "repo": "SMCSarchive/SMCS-cytube-repo",
+  "summary": "offical IRL cart for pokemon red version",
+  "shell": "#d33a2c",
+  "finish": "sparkle+holo",
+  "label": "label.png",
+  "base": "red",
+  "engine": ">=0.2.26 <1.0.0",
+  "seal": "open",
+  "mods": [
+    {
+      "id": "running_shoes",
+      "source": "github",
+      "repo": "MadeinTaly/gen1recomp-running-shoes",
+      "version": "1.9.2",
+      "sha256": "7c1e46cf0b021297df1aa733b652671acf36c43da1f8d11f7cb2c30de3503427"
+    }
+  ]
+}
