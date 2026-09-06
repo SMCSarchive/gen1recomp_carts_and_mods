@@ -18,7 +18,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  CART_ID: "pkmn-red"
+  CART_ID: "pkmn-blue"
   CARTKIT_REPO: bryanthaboi/gen1recomp
   CARTKIT_REF: dev
 
